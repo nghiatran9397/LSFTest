@@ -1,0 +1,8 @@
+HUONG DAN SU DUNG
+1. index.html  : trang landing page (sua chu, gia bang Notepad/VS Code).
+2. images/     : tat ca hinh anh. De thay anh, dat anh moi vao thu muc nay
+                voi DUNG TEN FILE cu (hoac sua ten file trong index.html).
+   - Hamper: ty le khoang 16:9 (rong 1280px tro len la dep)
+   - San pham: anh vuong (khoang 600x600px)
+3. Dua ca thu muc len hosting (Netlify Drop, Cloudflare Pages hoac hosting lisafood.vn)
+   roi tro CNAME tu ten mien (vi du tet.lisafood.vn).
